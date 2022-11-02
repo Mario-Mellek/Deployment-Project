@@ -52,15 +52,10 @@ jobs:
       - aws-cli/setup
       - checkout
       - run:
-          name: Deploy Api
+          name: Deploy
           #  Install, build, deploy in both apps
           command: |
-            npm run api:deploy
-      - run:
-          name: Deploy Front
-          #  Install, build, deploy in both apps
-          command: |
-            npm run frontend:deploy
+            npm run deploy
             
 workflows:
   udagram:

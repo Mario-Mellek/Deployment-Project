@@ -9,5 +9,7 @@
 2- Jobs
 -   Install the code dependencies for the back and front-end applications (package.json)
 -   Build back and front-end applications
--   Deploy the backend API application to Elastic Beanstalk
+
+3- Hold for approval
+-   Deploys the backend API application to Elastic Beanstalk
 -   Deploys the front-end application to AWS S3 bucket

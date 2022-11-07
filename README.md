@@ -2,8 +2,6 @@
 
 This application is provided by Udacity for learning purposes. The udagram application is a fairly simple application that includes all the major components of a Full-Stack web application.
 
-### Application URL: http://my-265888062317-bucket.s3-website-us-east-1.amazonaws.com
-
 ### Dependencies
 
 ```
